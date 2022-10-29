@@ -1,7 +1,6 @@
 # Youtube-Clone
 
 ## :rocket: Technologies
-
 - NodeJs
 - Express
 - MongoDB
